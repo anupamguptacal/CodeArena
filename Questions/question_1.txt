@@ -1,0 +1,7 @@
+Write a Program to Print your name 
+---
+Input: None
+Output: Manoj
+---
+Input: None
+Output: Riya

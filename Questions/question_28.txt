@@ -1,0 +1,7 @@
+Write a Program to print out only the decimal part of a number. For example, for the input: 43.25, you would only print 25
+---
+Input: 43.25
+Output: 25
+---
+Input: 98.00
+Output: 0

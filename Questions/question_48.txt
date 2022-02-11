@@ -1,0 +1,7 @@
+Given a 2-D array,two points on the 2-D array and the total number of steps you can take, find a non-repeating path from the starting point to the ending point with the maximum product of elements with path length AT MOST equal to the total number of steps the user allows. A step is defined as a single movement in any one direction i.e. from (i,j) to (i,j+1), (i+1,j), (i+1,j+1),(i-1,j),(i,j-1) or (i-1,j-1). Print the elements in the path and the total computed maximum product. If the total number of steps is greater than the number of elements in the array or the length of any possible path combination, print a message to let the user know.
+---
+Input:[[1,3,6,4], [7,8,9,11],[5,0,1,3], [7,1,2,11]], path_size = 5, starting_point = (0,0) (these are indices - (row,column)), ending_point = (1,2).
+Output: [1,7,8,3,6,9], product = 9072
+---
+Input:[[1,3,6,4], [7,8,9,11],[5,0,1,3], [7,1,2,11]], path_size = 8, starting_point = (0,0) (these are indices - (row,column)), ending_point = (2,2).
+Output = [1,7,8,9,4,11,3,11,2,1], product = 1463616

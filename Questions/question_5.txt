@@ -1,0 +1,7 @@
+Write a Program to print all prime numbers till a number. A prime factor is a factor of a number that is only divible by 1 and itself.
+---
+Input: 20
+Output: 1,3,5,7,11,13,17,19
+---
+Input: 10
+Output: 1,3,5,7

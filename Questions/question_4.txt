@@ -1,0 +1,7 @@
+Write a Program to print out the factors of a natural Number
+---
+Input: 8
+Output: 1,2,4,8
+---
+Input: 17
+Output: 1,17

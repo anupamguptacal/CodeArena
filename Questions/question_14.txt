@@ -1,0 +1,7 @@
+Write a program to find the sum of all even elements of an array. Find the sum of all elements that are even NOT elements present at EVEN positions.
+---
+Input:[5,3,6,2,1]
+Output: 6+2 = 8
+---
+Input: [4,2,7,1,7,3,4,56]
+Output: 4+2+4+56 = 66

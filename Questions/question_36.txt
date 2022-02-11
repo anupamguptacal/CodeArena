@@ -1,0 +1,10 @@
+Given an initial amount and an array containing certain coins with different values, find the minimum number of coins that can be used to represent the given amount. If no such breakup is possible, print a message saying so. Write a Program to break up a given amount into the minimum number of coins
+---
+Input: Amount: 100, coin_values = [8,6,4]
+Output: 12 coins of value 8, 1 coin of value 4
+---
+Input: Amount: 101, coin_values = [8,6,4]
+Output: No such arrangement is possible
+---
+Input: Amount: 9, coin_values = [7,4,1]
+Output: 2 coins of value 4, 1 coin of value 1

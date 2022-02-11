@@ -1,0 +1,7 @@
+Write a Program using recursion to print the only natural numbers under 100 who's digit sum to 7. Accept an integer number from the user that denotes if the numbers need to printed in ascending or descending order. If the number is 1, print the matching numbers in ascending order, if it is 0, print all such matching numbers in descending order.
+---
+Input: 1
+Output: 7,16,25..
+---
+Input: 0
+Output: 61,52,43..

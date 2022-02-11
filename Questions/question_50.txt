@@ -1,0 +1,7 @@
+Write a Program to accept a 2-D array and print a single sorted array with all the 2-D array values.
+---
+Input: [[2,1,6],[5,0,3],[7,1,1]]
+Output: [0,1,1,1,2,3,5,6,7]
+---
+Input: [[3,2,7],[6,1,4],[8,2,4]]
+Output: [1,2,2,3,4,4,6,7,8]

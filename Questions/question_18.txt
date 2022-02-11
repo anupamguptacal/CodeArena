@@ -1,0 +1,10 @@
+Write a program to check if there are any 3 elements in an array (non-repetitive) that can add upto zero. When the question says non-repetitive that means that you cannnot use the same element more than once. The elements might have the same value but must all be different. For example, for the array : [8,0,0,0,9], the answer is true, because 0+0+0 is 0 but for the array: [8,0,8,9], the answer is false because there are no 3 DISTINCT ELEMENTS that can add upto 0.
+---
+Input: [6,3,1,0,-1,8,3]
+Output: True (because 1 + -1 + 0 = 0)
+---
+Input: [7,8,9,-5,0,-1,-2]
+Output: True (because 7 + -5 + -2 = 0)
+---
+Input: [8,103,0,-3,-3,-2]
+Output: False

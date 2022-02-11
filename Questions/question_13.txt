@@ -1,0 +1,7 @@
+Write a Program to find the sum of all elements of an array
+---
+Input: [6,4,1,7,2]
+Output: 6+4+1+7+2 = 20
+---
+Input: [3,7,2,7,3,2]
+Output: 3+7+2+7+3+2 = 24

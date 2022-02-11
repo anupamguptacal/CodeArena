@@ -1,0 +1,4 @@
+Imagine that elements in an array are heights of mountain ranges. Hercules wants to start from the beginning of the mountain range and reach the end. Calculate and tell him the second largest climb/descent he will have to do. For example: The array [5,7,3,2] means the first mountain is at heigher 5, the second is at 7, so hercules just needs to climb 2 more kilometeres to reach the second mountain range. Find the second highest climb/descent (absolute) that Hercules will need to undertake
+---
+Input: [5,7,3,2]
+Output: 5->7 is the second highest climb possible

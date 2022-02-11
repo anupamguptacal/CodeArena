@@ -1,0 +1,7 @@
+Write a number to find a number can be converted to a palindrome with such one alteration. An alteration is changing exactly one number to another number that is already in the number. For example: in the number: 1002, this can be made a palindrome by changing the 2 to 1 (which is already present in the number so we can use it), so for this example, it would return true
+---
+Input: 98098
+Output: False
+---
+Input: 56763
+Output: True

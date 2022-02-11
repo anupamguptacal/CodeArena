@@ -1,0 +1,7 @@
+Given an array with sorted distinct values and an element, print the index where the element exists, if anywhere. If the element doesn't exist anywhere, print a message saying so. Do this using recursive binary search.
+---
+Input: [1,4,7,13,56,302,493,742], element_to_search: 302
+Output: 5 (302 is present at index 5)
+---
+Input: [1,4,7,13,56,302,493,742], element_to_search: 3
+Output: No such element is present

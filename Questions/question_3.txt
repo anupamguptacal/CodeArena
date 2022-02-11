@@ -1,0 +1,4 @@
+Write a Program to print the first 20 even numbers
+---
+Input: None
+Output: 0,2,4,6,8,10,12,14,16,18,20...

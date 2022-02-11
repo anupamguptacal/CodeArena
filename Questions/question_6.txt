@@ -1,0 +1,7 @@
+Write a Program to print sum of even indexed (starting from 0) digits of a number. For example, for the number 830103, the sum is 8 + 0 + 0 = 8
+---
+Input: 20
+Output: 2
+---
+Input: 106234
+Output: 10

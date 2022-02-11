@@ -1,0 +1,4 @@
+Write a Program to enter two arrays and print all elements that are uncommon between both arrays.
+---
+Input: [3,4,5], [2,6,4]
+Output: 3,5,2,6

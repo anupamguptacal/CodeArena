@@ -1,0 +1,7 @@
+Write a Program to convert an array into a number.
+---
+Input: [3,2,1]
+Output: 321
+---
+Input: [5,7,2,1]
+Output: 5721

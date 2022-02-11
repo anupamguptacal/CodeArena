@@ -1,0 +1,7 @@
+Program: Write a Program to print out the first 10 Natural Numbers 
+---
+Input: None
+Output: 1,2,3,4,5,6,7,8,9,10
+---
+Input: None
+Output: 1,2,3,4,5,6,7,8,9,10

@@ -1,0 +1,7 @@
+Given an array with just 0s and 1s, find the number of islands. Islands are defined as blobs of 1s on the 2-D array that are not connected to each other. Think of 0s as water and 1s as land. Any 1 present to the (i,j+1),(i+1,j),(i+1,j+1),(i-1,j),(i,j-1) or (i-1,j-1) of any 1 present at (i,j) is considered to be part of the same island. Print the number of such islands in the 2-D array.
+---
+Input: [[1,1,1,0],[0,0,0,0],[1,0,0,0],[0,0,1,1]] (Each internal array is a row in the 2-D array)
+Output: 2
+---
+Input: [[1,1,0],[0,0,0],[0,1,1]]
+Output: 2

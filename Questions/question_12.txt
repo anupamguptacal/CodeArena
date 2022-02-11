@@ -1,0 +1,7 @@
+Write a Program to sort 4 numbers using only conditionals. All 4 inputs are input from the user. No sorting or arrays, etc are allowed.
+---
+Input: 53,64,21,64
+Output: 21,53,64,64
+---
+Input: 53,7,5,96
+Output: 5,7,53,96

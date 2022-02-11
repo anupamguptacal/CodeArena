@@ -1,0 +1,10 @@
+Write a program to print "Yes" or "No" depending on if there are two distinct pairs (non overlapping elements) of numbers in an array with the same sum.
+---
+Input: [5,7,1,4,3,3]
+Output: Yes, because 5+1 = 3+3
+---
+Input: [4,1,5,3,9,5]
+Output: Yes, because 9+1 = 5+5
+---
+Input: [5,0,6,4,2,4]
+Output: Yes, because 4+4 = 6+2

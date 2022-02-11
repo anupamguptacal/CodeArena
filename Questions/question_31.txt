@@ -1,0 +1,7 @@
+Write a Program using recursion to print the first 10 natural numbers. Accept a boolean value from the user. If the user inputs a 1, then print the numbers in ascending order, else if the user inputs a 0, print the numbers in descending order.
+---
+Input: 1
+Output: 1,2,3,4,5,6,7,8,9,10
+---
+Input: 0
+Output: 10,9,8,7,6,5,4,3,2,1

@@ -1,0 +1,7 @@
+Write a Program to accept a 2-D array with odd number of columns and flip the array on it's spine i.e. the first column becomes the last column, the second-column becomes the second-last column etc. Create a new array with this format and print it. The output is just the printed final created matrix but do this by creating the flipped matrix (as a new 2-D array) not just by printing using loops in a clever way. You can also do this recursively, as a fun exercise!
+---
+Input: [[3,4,6],[0,0,0],[4,1,6],[1,1,1],[15,32,6]] (each individual array represents a row of the 2-D matrix)
+Output: [[6,4,3],[0,0,0],[6,1,4],[1,1,1],[6,32,15]]
+---
+Input: [[7,8,9],[0,0,0],[1,1,1]] (each individual array represents a row of the 2-D matrix)
+Output: [[9,8,7],[0,0,0],[1,1,1]]

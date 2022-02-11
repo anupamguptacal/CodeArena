@@ -1,0 +1,7 @@
+Write a Program to figure out if an inputted number is special or not. A number is considered to be special if the SUM of the product of the numbers AND the SUM of the numbers is the number itself. For example: 29, the sum of digits of 29 is 2+9 is 11, and the product is 2*9 = 18, their sum is 11 + 18 = 29 (which is the original number itself)
+---
+Input: 29
+Output: True
+---
+Input: 49
+Output: True

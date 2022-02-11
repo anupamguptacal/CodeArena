@@ -1,0 +1,10 @@
+Write a Program to check if an array is palindromic or not. A palindromic array reads the same from the left as well as from the right. Return true or false.
+---
+Input: [1,0,0,1]
+Output: True
+---
+Input: [1,2,3,2,1]
+Output: True
+---
+Input: [8,0,0,8,1]
+Output: False

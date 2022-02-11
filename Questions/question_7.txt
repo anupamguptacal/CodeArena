@@ -1,0 +1,7 @@
+Write a program to reverse half of a number. For example, for the input: 13485, the output would be 13458 (middle number is not reversed in odd numbers), for the example: 125403, we would get 125304.
+---
+Input: 12485
+Output: 12458
+---
+Input: 859302
+Output: 859203

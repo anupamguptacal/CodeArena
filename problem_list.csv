@@ -1,0 +1,50 @@
+1,Write a Program to Print your name,Logical,Easy
+2,Write a Program to Print the first 10 terms,Loop;Arithmetic,Easy
+3,Write a Program to Print the first 20 even numbers,Loop;Arithmetic,Easy
+4,Write a Program to Print Factors of a Number,Loop,Easy
+5,Write a Program to Print All Prime Numbers Till a Number,Loop,Medium
+6,Write a Program to Print Sum of Even Indexed Number Digits,Loop,Easy
+7,Write a Program to Reverse Half of a Number,Loop,Easy
+8,Write a Program to Intermingle digits from 2 numbers,Loop,Medium
+9,Write a Program to print sum of first N Fibonacci Terms,Loop,Medium
+10,Write a Program to print 9s in all numbers upto a Number,Loop,Easy
+11,Write a Program to print all numerically smaller number permutations,Loop,Hard
+12,Write a Program to Sort 4 numbers using just conditionals,Conditionals,Medium
+13,Write a Program to find the sum of all elements in an array,Array,Easy
+14,Write a Program to find the sum of all even elements in an array,Array,Easy
+15,Write a Program to delete the middle element of an array,Array,Easy
+16,Write a Program to reverse half of an array,Array,Medium
+17,Write a Program to check if an array is palindromic or not,Array,Easy
+18,Write a Program to check if 3 elements in array can add up to zero,Array,Medium
+19,Write a Program to convert an array into a number,Array,Medium
+20,Write a Program to find 2 distinct pairs in an array with the same sum,Array,Medium
+21,Write a program to print out the nth term of the sequence,Logic,Medium
+22,Write a Program to enter an array and an element and delete all occurences of the element,Array,Medium
+23,Write a Program to enter an array and find the index of the second last occurence of the element,Array,Hard
+24,Write a Program to check if two rectangles overlap or not,Logic,Medium
+25,Write a Program to find the second highest jump in an array,Array,Medium
+26,Write a Program to print the uncommon elements between two arrays,Array,Easy
+27,Write a Program to print the longest increasing sequence in an array,Array,Hard
+28,Write a Program to print out only the decimal part of a number,Logic,Hard
+29,Write a Program to find if a number can be converted into a palindrome with just one change,Logic,Hard
+30,Write a Program to input a number and find if it is a special number,Logic,Medium
+31,Write a Program using recursion to print the first 10 natural numbers,Arithmetic;Recursion,Easy
+32,Write a Program using recursion to print the only natural numbers under 100 who's digit sum to 7,Arithmetic;Recursion,Easy
+33,Write a Program to input an array and print the array in reverse using recursion,Array;Recursion,Easy
+34,Write a Program to maximize the amount a bag can carry given a specific bag weight and number of elements,Array;Recursion,Hard
+35,Write a Program to find the minimum number of steps needed to take to reach the top of a staircase,Recursion,Hard
+36,Write a Program to break up a given amount into the minimum number of coins,Recursion,Hard
+37,Write a Program to search for an item in an array using recursive binary search,Recursion,Medium
+38,Write a Program to find the maximum item in an array using recursion,Recusion,Easy
+39,Write a Program to merge 3 sorted arrays into a single sorted array,Arrays,Medium
+40,Write a Program to merge 3 sorted arrays into a single sorted array recursively,Arrays;Recursion,Hard
+41,Write a Program to accept a 2-D array and find the row with the maximum sum,2-D arrays,Easy
+42,Write a Program to accept a 2-D array and find the column with the maximum sum, 2-D arrays,Easy
+43,Write a Program to accept a 2-D array and create a separate array that would have the maximum sum, 2-D arrays,Easy
+44,Write a Program to accept a 2-D array with odd number of rows and flip the array on it's stomach, 2-D arrays,Easy
+45,Write a Program to accept a 2-D array with odd number of columns and flip the array on it's spine, 2-D arrays,Easy
+46,Write a Program to accept a 2-D array and find the mirror image of the array if the mirror is placed on the right diagonal, 2-D arrays,Hard
+47,Write a Program to accept a 2-D array and find the mirror image of the array if the mirror is placed on the left diagonal, 2-D arrays,Hard
+48,Write a Program to accept a 2-D array and given two points on the array;find the path with a specified length but the maximum product, 2-D arrays;Recursion,Hard
+49,Write a Program to accept a binary 2-D array and find the number of islands in the array,2-D arrays,Hard
+50,Write a Program to accept a 2-D array and print a single sorted array with all the 2-D array values,2-D arrays,Easy

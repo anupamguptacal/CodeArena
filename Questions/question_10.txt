@@ -1,0 +1,7 @@
+Write a Program to Print all numbers that have the digit 9 in them upto(excluding) a certain input limit. Example: if limit is 21, we would print: 9, 19.
+---
+Input: 80
+Output: 9,19,29,39,49,59,69,79
+---
+Input: 92
+Output: 9,19,29,39,49,59,69,79,89,90,91

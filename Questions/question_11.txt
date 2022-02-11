@@ -1,0 +1,7 @@
+Write a program to print all permutations of a number that are numerically smaller than the input number. Permutations are defined as different arrangement of digits of an input number. For example, if the input number is 6352, all permutations smaller than 6352 as 2356,2563,2635,2653,2365,2536,3256,3265,3526,3562,3625,3652,5263,5236,5362,5326,5632,5623,6235,6253,6325.
+---
+Input: 6352
+Output: 2356,2563,2635,2653,2365,2536,3256,3265,3526,3562,3625,3652,5263,5236,5362,5326,5632,5623,6235,6253,6325
+---
+Input: 351
+Output: 135,153,315

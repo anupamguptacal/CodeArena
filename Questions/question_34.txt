@@ -1,0 +1,7 @@
+You are given a given a certain bag weight and 2 arrays - one containing the weight of available items on a table and one containing the market value of each of the items specified in the first array. The number of elements in both the arrays is the same and the array indices match - i.e. amount[i] is the market value amount for the item whose weight is weight[i]. You are allowed to carry with you any items on the table as long as the bag doesn't rip open. Find the arrangement of items to pick from the table so you can maximize the market value of your bag without crossing the specified bag weight. This problem is often also called the Knapsack problem. 
+---
+Input: Bag-weight: 15, item_weights=[6,1,3,5,3,9], item_values=[1,8,6,12,4,14]
+Output: Items-Chosen with weights = 3,5,3,1, total market value = 30 (8+6+12+4), Bag weight: 12
+---
+Input: Bag-weight: 10, item_weights=[5,5,2], item_values=[14,6,14]
+Output: Items-chosen with weights = 5,2, total market value = 20 (14 + 6), Bag weight: 7

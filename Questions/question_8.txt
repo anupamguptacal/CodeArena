@@ -1,0 +1,8 @@
+Write a Program to intermingle digits from 2 three digit input numbers- such that it's of the form - first_digit_from_first_number first_digit_from_second_number second_digit_from_first_number second_digit_from_second_number etc. For example: for the inputs: 122 and 983, the output would be 192823
+---
+Input: 122,983
+Output: 192823
+---
+Input: 738, 847
+Output: 783487
+ 

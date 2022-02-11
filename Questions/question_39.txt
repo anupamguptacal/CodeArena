@@ -1,0 +1,7 @@
+Given 3 arrays sorted in increasing order, do a k-way merge such that you create a final single increasingly sorted array with elements from all 3 arrays. Write a Program to merge 3 sorted arrays into a single sorted array.
+---
+Input: array_1 = [3,7,8,19], array_2 = [1,1,1,1], array_3 = [5,6,7,18,19]
+Output: [1,1,1,1,3,5,7,8,18,19]
+---
+Input: array_1 = [3,5,6,7], array_2 = [0,1,1,2], array_3 = [9,10,11,12,13]
+Output: [0,1,1,2,3,5,6,7,9,10,11,12,13]

@@ -1,0 +1,7 @@
+Write a Program to take an array as input and print the longest increasing sequence in the array. For example: in the array [5,6,3,1,6,7], the longest increasing sequence is 1,6,7. If there are multiple answers, any one answer is okay.
+---
+Input: [5,6,7,8,3,1]
+Output: 5,6,7,8
+---
+Input: [6,7,1,4,9]
+Output: 1,4,9

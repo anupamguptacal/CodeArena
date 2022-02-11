@@ -1,0 +1,7 @@
+Given a 2-D array and a specified final array length, Write a Program to accept a 2-D array and create a separate array of the maximum length specified by the user that would have the maximum sum. If the length is greater than the total number of elements present in the 2-D array, print a message to the user saying so. Print the final such created array.
+---
+Input: [[3,4,6],[4,1,6],[15,32,6]] (each individual array represents a row of the 2-D matrix), final_array_size = 5
+Output: [6,6,6,32,15]
+---
+Input: [[0,0,0],[7,4,1],[0,0,0]] (each individual array represents a row of the 2-D matrix), final_array_size = 7
+Output: [7,4,1,0,0,0,0] (order doesn't matter)

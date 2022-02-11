@@ -1,0 +1,10 @@
+Arun is trying to get to the top of a staircase as fast as possible. The step-sizes that Arun can take are input to you via the user. The user also inputs the total number of steps that Arun needs to climb. Write a Program that can find the optimal(minimum) number of steps that Arun must take in order in order to exactly reach the top of the stairs. If Arun oversteps, he will fall over and if he doesn't reach the top, he will miss his exam. If no such arrangement is possible, output so to the user. Write a Program to find the minimum number of steps needed to take to reach the top of a staircase.
+---
+Input: Number of steps: 10, Steps_allowed=[1,3,4]
+Output: [4,3,3]
+---
+Input: Number of steps: 15, Steps_allowed=[2,4,6]
+Output: There are no possible arrangements.
+---
+Input: Number of steps: 17, Steps_allowed = [2,3,6,7]
+Output: [7,6,2,2]

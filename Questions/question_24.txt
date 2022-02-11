@@ -1,0 +1,7 @@
+Write a Program to enter an element and enter the x and y co-ordinates of 2 rectangles and print true if they overlap with each other or not. 
+---
+Input: First => (0,1), (1,0), (1,1), (0,0), Second => (0,2), (2,0), (2,2), (0,0)
+Output: True
+---
+Input: First => (0,1), (1,0), (1,1), (0,0), Second => (3,2), (5,2), (3,4), (5,4)
+Output: False

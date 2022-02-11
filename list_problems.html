@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Code Challenges </title>
+	<link rel="stylesheet" href="list.css" />
+	<script src="/KGPCodeArena/ace-builds-master/src-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
+	<script src="list.js"></script>
+<style type="text/css">
+    #editor { 
+       position: relative;
+		border-radius: 2em;
+		margin-top: 50px;
+		margin-right: auto;
+		margin-left: auto;
+		width: 650px;
+		height: 400px;
+    }
+</style>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=The+Nautigal:wght@700&display=swap');
+</style>
+</head>
+<body>
+	<div id="world">
+		<div id="banner">
+			<img id="banner-img" src="banner-img.png" alt="banner-img"/>
+			<h1> Code Challenges </h1>
+		</div>
+		<div id ="name-banner">
+			<p id="banner-name"></p>
+		</div>
+		<p id="home"> <a href=""> < Table of Problems </a></p>
+		<div id="code-challenges">
+			<table id ="challenges"></table>
+		</div>
+		<div id="notification" class="hidden">
+			<img id="notif-img" src="cchaudhary1.png"/>
+				Welcome to KGP Code Arena! A platform to practice and compete with your friends. Since the website is still in it's initial phase, some features such as automated testing are still in the process of development. <br /><br />
+
+				Automated Compiling, code-backups, error detection and on-the-web editor are implemented to completion. <br /><br />
+
+				Please note that since this is online, there is no terminal, you cannot accept input from user so please create the input yourself inside the function and test your code. We will soon have a competitor score board as well! :) <br /><br />
+
+				Good luck coding! And I hope this helps! :)<br /><br />
+
+				(Click to close)
+		</div>
+		<div id="final-div">
+
+			<div id="outer-div">
+				<div id="individual-challenge">
+					<h3> Problem Description </h3>
+				</div>
+			</div>
+			<div id="second-outer-div">
+				<div id=outer-editor>
+					<h2 id = "arena-heading"> Code Arena </h2>
+
+					<div id="editor">#include stdio.h
+
+int main()
+{// Complete the code.
+	return 0;
+}
+					</div>
+					<h3 id = "output-heading">Computed Output </h3>
+					<img id="spinning" class= "hidden" src="spinning-loading-1.gif"/>
+					<textarea id="output-area" rows="4" cols="60"></textarea>
+					<div>
+						<h3 id="input-area-heading"> Custom Input Area </h3>
+						<textarea id="input-area" rows="2" cols="60"></textarea>
+					</div>
+					<div>
+						<table id="custom-tests"></table>
+					</div>
+					<button id="submit-button"> Submit Code </button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="test-results"></div>
+</div>
+    
+
+<script>
+
+</script>
+</body>

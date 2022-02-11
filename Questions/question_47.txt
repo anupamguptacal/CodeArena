@@ -1,0 +1,7 @@
+Write a Program to accept a square 2-D array and find the mirror image of the array if the mirror is placed on the left diagonal. Imagine placing a mirror on the left diagonal (on a graph, a left diagonal would be the line from (0,4)) to (4,0) with slope -1) and print the array created due to this left diagonal mirror. You can either create a new array for this purpose or do this just by changing the original array or just by printing using loops in a clever way. You can also do this recursively for a great exercise!
+---
+Input: [[1,3,6], [5,0,1], [7,1,2]]
+Output: [[1,5,7],[3,0,1],[6,1,2]]
+---
+Input: [[1,3,6,4], [7,8,9,11],[5,0,1,3], [7,1,2,11]]
+Output: [[1,7,5,7],[3,8,0,1],[6,9,1,2],[4,3,3,11]]

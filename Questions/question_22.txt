@@ -1,0 +1,7 @@
+Write a Program to enter an array and an element and delete all occurences of the element
+---
+Input: [4,5,6,3,2,1], element = 5, array_size = 6
+Output: [4,6,3,2,1], array_size = 5
+---
+Input: [7,7,7,7,7,7,7], element = 7, array_size = 7
+Output: [], array_size = 0
